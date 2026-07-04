@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KD-Tree — Índice Espacial para Búsqueda Multidimensional en Infraestructura SAP
 
 **Proyecto de Investigación Doctoral**  
@@ -198,3 +199,7 @@ http://localhost/web9/index.php
 
 Proyecto de Investigación Doctoral  
 **Estructuras de Datos y Algoritmos Avanzados**
+=======
+# KD-Tree
+Implementación de un Indice Espacial Basado en KD-Tree para la Busqueda Multidimensional de Estados Operacionales Similares en Infraestructura Corporativa SAP
+>>>>>>> a58cb3fdebf60af3be5387493f53ecb78dce6d78
