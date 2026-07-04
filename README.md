@@ -197,7 +197,12 @@ http://localhost/web9/index.php
 
 ## Autor
 
-Proyecto de Investigación Doctoral  
+Proyecto de Investigación Doctoral
+
+María Elena Gomez Huayta
+Cesar Paul Apaza Choquehuanca
+Vladimir Benavides Camacho
+
 **Estructuras de Datos y Algoritmos Avanzados**
 =======
 # KD-Tree
